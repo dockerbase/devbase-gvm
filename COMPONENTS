@@ -1,0 +1,18 @@
+Description:	Ubuntu 14.04.1 LTS
+git version 1.9.1
+ruby 1.9.3p484 (2013-11-22 revision 43786) [x86_64-linux]
+OpenSSH_6.6.1p1 Ubuntu-2ubuntu2, OpenSSL 1.0.1f 6 Jan 2014
+GNU Make 3.81
+Copyright (C) 2006  Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.
+There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.
+
+This program built for x86_64-pc-linux-gnu
+
+==== BROADCAST =================================================================
+* 09/09/14: GVM updated to display last 3 messages on broadcast.
+* 09/09/14: Spring boot 1.2.0.M1 has been released on GVM. #springboot
+* 08/09/14: Gradle 2.1 has been released on GVM. #gradle
+================================================================================
+Groovy enVironment Manager 2.1.0
