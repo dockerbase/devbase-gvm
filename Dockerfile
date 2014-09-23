@@ -1,7 +1,7 @@
 # VERSION 1.0
 # DOCKER-VERSION  1.2.0
 # AUTHOR:         Richard Lee <lifuzu@gmail.com>
-# DESCRIPTION:    Devbase-gvm Image Container
+# DESCRIPTION:    Devbase-gvm Image Container - groovy environment manager
 
 FROM dockerbase/devbase-jdk
 
